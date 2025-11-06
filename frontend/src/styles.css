@@ -1,0 +1,5 @@
+body { font-family: Arial, Helvetica, sans-serif; margin:0; }
+input, textarea, select { padding:8px; border:1px solid #ddd; border-radius:4px; width:100%; }
+button { padding:8px 10px; border:0; background:#111827; color:#fff; border-radius:6px; cursor:pointer; }
+button:disabled { opacity:0.6; cursor:not-allowed; }
+form input, form textarea, form select { box-sizing:border-box; }
